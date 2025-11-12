@@ -30,7 +30,7 @@
   <li><img src="https://cdn.simpleicons.org/settings/00BFFF" width="18"/> <b>Painel de configuração visual</b></li>
   <li><img src="https://cdn.simpleicons.org/lock/00BFFF" width="18"/> <b>Segurança aprimorada</b> com logs</li>
   <li><img src="https://cdn.simpleicons.org/chartdotjs/00BFFF" width="18"/> <b>Estatísticas inteligentes</b></li>
-  <li><img src="https://cdn.simpleicons.org/internetexplorer/00BFFF" width="18"/> Integração total com a <b>Simple Solutions</b></li>
+  <li><img src="https://cdn.simpleicons.org/internetexplorer/00BFFF" width="18"/> Integração total com a <b>Inteligencia Artificial</b></li>
   <li><img src="https://cdn.simpleicons.org/discord/00BFFF" width="18"/> Compatível com <b>discord.js v14+</b></li>
 </ul>
 
